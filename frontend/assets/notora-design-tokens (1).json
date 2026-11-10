@@ -1,0 +1,48 @@
+# Notora MVP Screen Inventory
+
+## Onboarding and account
+1. Splash / brand screen
+2. Welcome and sign in
+3. Create account
+4. Notification permission explanation
+5. AI and privacy consent
+
+## Primary app
+6. Home dashboard
+7. Notes list / all notes
+8. Note editor
+9. Note editor overflow / note actions
+10. AI assistant
+11. AI result / suggested actions
+12. Tasks dashboard
+13. Create / edit task
+14. Reminders list
+15. Create / edit reminder
+16. Reminder notification deep-link destination
+17. Calendar month view
+18. Event details / create event
+19. Folders list
+20. Folder detail
+21. Tags manager
+22. Search results
+23. Voice capture / transcription review
+
+## Settings and system
+24. Settings home
+25. Appearance (light / dark / system)
+26. Notification preferences
+27. Privacy and app lock
+28. Sync and backup
+29. Account and data export
+30. Empty, loading, error and offline states
+
+## Core navigation
+Home | AI | Tasks | Calendar | More
+
+## Interaction principles
+- Keep note creation one tap away.
+- Autosave with visible, unobtrusive save state.
+- Confirm destructive actions.
+- Ask permission only when a feature is first used, with an explanation.
+- For reminders and alarms, show success only after the OS confirms scheduling.
+- Provide graceful fallbacks when an OS integration is unavailable.

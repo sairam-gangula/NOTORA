@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="title">
+<title>Notora wordmark</title>
+<rect x="10" y="10" width="200" height="200" rx="48" fill="#C77E61"/>
+<g transform="translate(0 0)">
+<path d="M54 170C78 105 119 23 205 -7c-4 78-51 145-151 177Z" fill="none" stroke="#F4EFE7" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64 160c35-45 77-91 127-139" fill="none" stroke="#F4EFE7" stroke-width="8" stroke-linecap="round"/>
+<path d="M164 126 174 149 197 159 174 169 164 192 154 169 131 159 154 149Z" fill="#F4EFE7"/>
+</g>
+<text x="250" y="133" font-family="Manrope, Arial, sans-serif" font-size="100" font-weight="700" fill="#292824">Notora</text>
+</svg>

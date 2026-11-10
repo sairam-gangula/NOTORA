@@ -1,0 +1,54 @@
+{
+  "brand": "Notora",
+  "tagline": "Capture. Organise. Create.",
+  "colors": {
+    "sand": "#F4EFE7",
+    "beige": "#E8D9C6",
+    "terracotta": "#C77E61",
+    "charcoal": "#292824",
+    "stone": "#A3A18D",
+    "white": "#FFFFFF",
+    "terracottaDark": "#A85F40",
+    "peach": "#F4E4D6"
+  },
+  "typography": {
+    "headings": {
+      "family": "Manrope",
+      "weights": [
+        500,
+        600,
+        700
+      ]
+    },
+    "body": {
+      "family": "SF Pro Text",
+      "fallback": [
+        "Inter",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "noteEditor": {
+      "family": "SF Pro Text",
+      "recommendedSizePt": 16,
+      "lineHeight": 1.5
+    }
+  },
+  "radii": {
+    "small": 10,
+    "medium": 16,
+    "large": 24,
+    "pill": 999
+  },
+  "spacing": {
+    "unit": 4,
+    "screenHorizontal": 20,
+    "sectionGap": 24,
+    "cardPadding": 16
+  },
+  "motion": {
+    "standardMs": 220,
+    "emphasisMs": 320,
+    "easing": "ease-out"
+  }
+}

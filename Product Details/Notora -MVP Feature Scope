@@ -1,0 +1,136 @@
+# NOTORA — MVP FEATURE SCOPE
+**Product:** AI-powered Notes & Productivity App  
+**Tagline:** Capture. Organise. Create.  
+**Design:** Sand & Terracotta
+
+## 1. Home Dashboard
+- Recent notes.
+- Pinned notes.
+- Search bar.
+- Quick-create note button.
+- Folder shortcuts.
+- Upcoming reminders preview.
+- Recently modified notes.
+- Grid and list view options.
+
+## 2. Notes Management
+- Create, edit and delete notes.
+- Autosave.
+- Rich-text formatting (bold, italic, headings, bullet points).
+- Checklists and to-do lists.
+- Add images to notes.
+- Pin and favourite notes.
+- Archive notes.
+- Note creation and modification timestamps.
+
+## 3. Organisation
+- Create and manage folders.
+- Basic tags and labels.
+- Move notes between folders.
+- Filter notes by folder and tag.
+- Recently deleted notes.
+- Favourites.
+
+## 4. AI Assistant
+- Summarise notes.
+- Rewrite and improve text.
+- Grammar and spelling correction.
+- Expand short notes.
+- Convert paragraphs into bullet points.
+- Convert notes into checklists.
+- Extract tasks and action items.
+- Ask questions about a selected note.
+- Generate content from prompts.
+
+## 5. Smart Capture
+- Quick note creation.
+- Voice-to-text note capture.
+- Natural-language date and time recognition.
+- Detect tasks and deadlines in notes.
+- Suggest reminders from note content.
+- Convert unstructured thoughts into organised checklists.
+
+## 6. Reminders and Notifications
+- Create reminders manually.
+- Create reminders directly from notes.
+- AI-suggested reminders.
+- Custom date and time.
+- One-time and recurring reminders.
+- Local phone notifications.
+- Snooze and dismiss.
+- Mark reminders as completed.
+- Upcoming and overdue reminders.
+- Notification permission management.
+
+## 7. Basic Tasks Management
+- Dedicated tasks screen.
+- Create tasks manually.
+- Convert notes into tasks.
+- Task due dates.
+- Task priorities.
+- Mark tasks as complete.
+- Today's tasks.
+- Upcoming tasks.
+- Overdue tasks.
+
+## 8. Phone Integration
+- Native notification integration.
+- Background reminder scheduling.
+- Home screen quick-capture widget where supported.
+- Share content from other apps into Notora.
+- Calendar access for reading events, with permission.
+- Native alarm creation through supported OS integrations, subject to permissions and platform support.
+
+## 9. Search
+- Instant keyword search.
+- Search across note titles and contents.
+- Filter by folder and tag.
+- Search tasks and reminders.
+- Basic AI-powered semantic search if feasible within the initial AI architecture.
+
+## 10. Settings and Personalisation
+- Light mode.
+- Dark mode.
+- Automatic system theme.
+- Sand & Terracotta default theme.
+- Basic font-size controls.
+- App lock using biometrics where supported.
+- Notification preferences.
+- Account settings.
+
+## 11. Data and Synchronisation
+- User authentication.
+- Cloud storage.
+- Automatic cloud sync.
+- Offline note creation and editing.
+- Sync when internet connectivity returns.
+- Basic backup and recovery.
+- Data export.
+
+## 12. Core Design Requirements
+- Premium iOS-inspired interface.
+- Fluid navigation and transitions.
+- Smooth animations and micro-interactions.
+- Minimalist layout.
+- Rounded cards and buttons.
+- Consistent Sand & Terracotta colour system.
+- Feather-and-sparkle Notora logo.
+- Responsive design.
+- Fast loading and autosaving.
+- Accessible typography and controls.
+
+---
+
+## MVP SUCCESS CRITERIA
+
+A user should be able to:
+
+1. Open Notora and immediately create a note.
+2. Organise that note into a folder.
+3. Ask AI to summarise or rewrite it.
+4. Have AI identify an actionable task.
+5. Create a reminder from that task.
+6. Receive a notification at the scheduled time.
+7. Find the note again using search.
+
+**This is the core Notora experience.**

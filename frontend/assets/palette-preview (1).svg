@@ -1,0 +1,30 @@
+# Implementation Handoff Notes
+
+## Recommended component conventions
+- Use a consistent 4pt spacing grid.
+- Minimum touch target: 44 x 44pt on iOS.
+- Use semantic colour tokens rather than hard-coded values.
+- Keep typography hierarchy limited and consistent.
+- Prefer native navigation, text editing, notification and permission patterns.
+- Use system haptics sparingly for completion, capture and confirmation.
+
+## Native integrations
+- Notifications: request permission contextually; schedule local notifications for reminders.
+- Alarms: use platform-supported alarm APIs/intents and clearly report unavailable actions.
+- Calendar: request access only when the user enables calendar features.
+- Widgets/share sheet: implement separately per platform.
+
+## Accessibility
+- Support Dynamic Type / font scaling.
+- Maintain adequate text/background contrast.
+- Do not communicate reminder status by colour alone.
+- Label icon-only buttons for assistive technology.
+- Respect reduced-motion settings.
+
+## Production checklist
+- Export store icons at required platform sizes.
+- Add dark-mode icon variants if needed.
+- Test SVG rendering on target platforms.
+- Verify font licences and bundle required font files.
+- Test notification delivery, permission denial and OS scheduling limits.
+- Test offline edits and sync conflicts.

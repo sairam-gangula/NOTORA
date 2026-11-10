@@ -1,0 +1,237 @@
+# NOTORA — Product Feature Specification
+**Tagline:** Capture. Organise. Create.
+
+**Product vision:** Notora is a modern, AI-powered Notes and Personal Productivity app. It combines note-taking, task management, reminders, alarms, calendar intelligence and AI assistance into one seamless mobile experience.
+
+## 1. Notes Management
+- Create, edit, delete and duplicate notes.
+- Pin and favourite important notes.
+- Rich-text editing (bold, italic, underline, headings, lists).
+- Checklists and to-do lists.
+- Add images, attachments, links and voice recordings.
+- Autosave while typing.
+- Note history and version recovery.
+- Archive notes.
+- Customisable note backgrounds and typography.
+- Organise notes by creation date, modification date and custom order.
+
+## 2. Organisation
+- Create, rename and delete folders.
+- Nested folders and subfolders.
+- Custom tags and labels.
+- Smart folders based on rules.
+- Favourites and pinned notes.
+- Automatic categorisation using AI.
+- Recently opened notes.
+- Archived and deleted notes.
+- Filter notes by type, date, tag and folder.
+
+## 3. AI Assistant
+- Summarise lengthy notes.
+- Rewrite, rephrase and improve writing.
+- Correct grammar and spelling.
+- Expand short notes into detailed content.
+- Brainstorm ideas.
+- Generate content from prompts.
+- Convert paragraphs into bullet points.
+- Convert text into checklists and actionable tasks.
+- Extract important dates, deadlines and events.
+- Extract action items from notes.
+- Generate meeting summaries.
+- Ask questions about individual notes.
+- Ask questions across all saved notes.
+- Context-aware AI assistance.
+- Suggest relevant tags and folders.
+- Generate plans and schedules from rough notes.
+
+## 4. Smart Capture
+- Quick note creation from anywhere inside the app.
+- Capture thoughts using text, voice or images.
+- Voice-to-text transcription.
+- Automatically detect tasks and deadlines in written content.
+- Recognise dates, times and recurring events.
+- Suggest reminders based on note content.
+- Automatically extract multiple actions from a single paragraph.
+- Convert unstructured thoughts into organised notes.
+- Quick capture widget and supported OS shortcuts.
+
+## 5. Reminders and Notifications
+- Create reminders manually.
+- Create reminders directly from notes.
+- AI-generated reminder suggestions.
+- One-time reminders.
+- Recurring reminders (daily, weekly, monthly, yearly).
+- Custom date and time selection.
+- Multiple reminders for a single note.
+- Location-based reminders where supported.
+- Push and local notifications.
+- Advance notifications.
+- Snooze and dismiss functionality.
+- Notification history.
+- Mark reminders as completed.
+- Overdue reminder tracking.
+- Reminder categories and priorities.
+
+## 6. Alarms and Timers
+- Set phone alarms through native OS integrations.
+- One-time alarms.
+- Repeating alarms.
+- Custom alarm labels.
+- Set timers.
+- Snooze and dismiss alarms where supported.
+- Create alarms through natural-language AI commands.
+- Associate alarms with specific notes and tasks.
+- Request confirmation before setting alarms.
+- Handle OS permissions and alarm restrictions properly.
+
+## 7. Calendar Integration
+- Monthly, weekly and daily calendar views.
+- Detect dates and events mentioned in notes.
+- Suggest calendar events from written content.
+- Create calendar events with user approval.
+- Sync with supported native calendars.
+- Detect scheduling conflicts where calendar access permits.
+- Upcoming events dashboard.
+- Event reminders and notifications.
+- Link notes to calendar events.
+
+## 8. Tasks and Productivity
+- Dedicated tasks dashboard.
+- Create tasks manually or using AI.
+- Convert notes into tasks.
+- Task priorities.
+- Due dates and deadlines.
+- Recurring tasks.
+- Subtasks.
+- Task completion tracking.
+- Overdue task indicators.
+- Today's tasks and upcoming tasks.
+- Daily planning.
+- Weekly overview.
+- Progress tracking.
+- Link tasks to relevant notes.
+
+## 9. Search and Discovery
+- Instant search across all notes.
+- Natural-language AI search.
+- Search by keywords, tags and folders.
+- Search within note contents.
+- Search by creation and modification date.
+- Filter by notes, tasks, reminders and attachments.
+- Semantic search to find notes based on meaning rather than exact keywords.
+- Suggested related notes.
+- Recently searched items.
+
+## 10. Phone and OS Integration
+- Native notification integration.
+- Native alarm and timer integration where supported.
+- Calendar access and synchronisation.
+- Home screen widgets.
+- Lock screen widgets where supported.
+- Share-sheet integration to save content from other apps.
+- Quick capture shortcuts.
+- Voice assistant and OS shortcut integration where available.
+- Deep links to open specific notes.
+- Background reminder scheduling.
+- Permission management.
+- Reliable notification delivery subject to OS restrictions.
+
+## 11. Cloud Sync and Backup
+- Automatic cloud synchronisation.
+- Sync across multiple devices.
+- Offline note creation and editing.
+- Automatic synchronisation when connectivity returns.
+- Conflict resolution.
+- Cloud backup.
+- Restore deleted notes.
+- Export notes.
+- Import notes from supported note-taking applications.
+
+## 12. Security and Privacy
+- App lock using biometrics or passcode.
+- Face ID / fingerprint authentication where supported.
+- Private and locked notes.
+- Secure storage for sensitive content.
+- Encrypted communication.
+- Clear AI data and privacy controls.
+- User control over what content is shared with AI.
+- Data export and account deletion.
+
+## 13. Personalisation and UI
+- Light mode.
+- Dark mode.
+- Automatic system theme.
+- Sand and terracotta default theme.
+- Customisable accent colours.
+- Multiple note fonts.
+- Adjustable text sizes.
+- Customisable home screen.
+- Different note layouts (list and grid).
+- Smooth transitions and animations.
+- Haptic feedback.
+- Fluid, iOS-inspired navigation.
+- Minimalist design with rounded cards and generous whitespace.
+
+## 14. AI-Powered Proactive Assistance
+- Identify incomplete tasks in notes.
+- Detect approaching deadlines.
+- Suggest reminders for important dates.
+- Identify notes that may be related.
+- Suggest organising unstructured notes.
+- Provide a daily briefing of tasks and reminders.
+- Generate a daily or weekly plan.
+- Highlight overdue tasks.
+- Identify conflicting calendar commitments where permitted.
+- Contextual suggestions based on saved notes and user-approved data.
+
+## 15. Suggested Navigation
+
+Primary bottom navigation:
+
+1. **Home** — Recent notes, pinned notes, quick capture and overview.
+2. **AI** — Dedicated AI assistant and conversational interface.
+3. **Tasks** — Tasks, checklists and productivity tracking.
+4. **Calendar** — Events, reminders, alarms and upcoming schedules.
+5. **More** — Folders, tags, settings, personalisation and account.
+
+## 16. Visual Identity and Design System
+
+**Brand:** Notora  
+**Tagline:** Capture. Organise. Create.
+
+**Colour palette — Sand & Terracotta:**
+- Sand: #F4EFE7
+- Beige: #E8D9C6
+- Terracotta: #C77E61
+- Charcoal: #292824
+- Muted Stone: #A3A18D
+- White: #FFFFFF
+
+**Typography:**
+- Headings: Manrope.
+- Body text: SF Pro Text on iOS, with an appropriate cross-platform alternative.
+
+**Logo:** Minimal feather/quill-inspired writing symbol with a sparkle, on a rounded terracotta app icon.
+
+**Design principles:**
+- Premium, minimalist and modern.
+- iOS-inspired user experience.
+- Smooth navigation and micro-animations.
+- Rounded corners and subtle shadows.
+- Warm neutral backgrounds.
+- Terracotta accents for primary actions.
+- Consistent design across every screen.
+- Accessibility and responsive layouts.
+
+## 17. Important Product and Technical Requirements
+
+- Build using native OS capabilities wherever necessary.
+- Use proper permission handling for notifications, calendars and alarms.
+- Never indicate that an alarm, reminder or event was created until the OS or backend confirms success.
+- Ensure offline functionality for essential note-taking.
+- Make AI actions context-aware and user-controlled.
+- Prioritise speed, responsiveness and smooth animations.
+- Keep the interface uncluttered despite the extensive feature set.
+- Design the architecture to support future features and integrations.
+
+**Overall objective:** Notora should not feel like a conventional notes application. It should be a unified personal workspace where users can capture thoughts, organise information, manage their time and execute everyday tasks with the help of AI.
